@@ -18,7 +18,7 @@ public class Enemy : MonoBehaviour
         Vector3 position = transform.position;
         GameObject coin = Instantiate(coinModel, position, Quaternion.identity);
         coin.SetActive(true);
-        Destroy(coin, 20f);
+        Destroy(coin, 10f);
     }
 
     public void LooseLife(){
