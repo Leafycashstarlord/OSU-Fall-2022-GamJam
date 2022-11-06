@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 437bff7e4b793404d8a67cf83c517284
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserTowerPrefab: {fileID: 2562825336545297644, guid: 321b6f4f47a63b341945d61f9ba38942, type: 3}
+  - fireTowerPrefab: {instanceID: 0}
+  - frostTowerPrefab: {instanceID: 0}
+  - bankTowerPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
